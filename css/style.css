@@ -62,7 +62,6 @@
     grid-gap: 40px; */
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     justify-content: space-between;
   }
   main-content {
